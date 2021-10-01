@@ -12,7 +12,7 @@ I made my last two campus memories red exclamation marks to show their importanc
 
 On the top of my map I put tags that show what I did while we were under quarantine lockdown. I really allowed myself to find unique ways to fill my time that weren’t just watching tv or being on my phone. I spent time with my family and got creative making a mural on my wall and painting canvas’ for my mom and even some of her friends. Although the effects of COVID-19 on the world were devastating, I believe I chose to spend my time inside becoming a better version of myself and came out the other side with a new perspective on everything I thought I knew. 
 
-<iframe width="960" height="505.2631578947368" data-original-width="2052" data-original-height="1080" src="https://www.thinglink.com/card/1498288097165574145" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
+<iframe width="960" height="505.2631578947368" data-original-width="2052" data-original-height="1080" src="https://www.thinglink.com/card/1498288097165574145" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script> 
 
 ### Making the map
 
