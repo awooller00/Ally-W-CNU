@@ -15,6 +15,7 @@ The new perspectives brought into the humanities introduces modern relevance to 
 
 I enjoyed reviewing the different projects that are out there. I looked into two different projects. One about folk songs from the south, their origin and recordings from generations who passed them down. Adiya Jain’s project analyzed the recordings and field notes from the travels of the Lomax’s who collected this information within the historical context necessary to understand these traditional music and particularities of the era and each region, religion, ethnicity. This review introduced me to how projects can be set up with a mixture of audio, video, photo, interactive graphics and text in a balanced way so that the viewer can get the most out of the information. 
 
+![Homepage of site](https://awooller00.github.io/Ally-W-CNU/images/mainpageohio.jpg)
 
 Another project I reviewed was done by a college group at Ohio State about the Latinos who lived in that area, their experiences with migration and how they have intertwined their culture while serving in their communities in activism, education, policy making, faith, and culture based celebrations. This project informed my final grant proposal with my group and helped us bring it to life.
 
@@ -23,6 +24,7 @@ My group and I wanted to enhance the narratives about rich traditions in Latinx 
 Although this was only a fictional proposal, our group really loved working on the logistics of it and wished we could have created the project ourselves. We could not make this a reality because of the time and money constraints however we were able to make our own project about CNU and our experience on campus.
 
 The CNU project was a practical way to show that anyone can create a digital humanities project and it doesn’t have to be complicated. My project walked through my freshman year experience of being sent home halfway through second semester because of the COVID-19 pandemic. 
+
 
 I highlighted the top memories I have from freshman year and shared the big moments leading up to right before we got sent home. The connection to the humanities was through everyone’s shared experience with the pandemic. Most people can relate to feeling lost and confused during this time, almost like we were living in an alternate reality. By sharing my experience with finding hope during a time that felt so hopeless it provides an opportunity for others to feel less alone in their experiences. 
 
