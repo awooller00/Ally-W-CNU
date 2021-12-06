@@ -11,7 +11,10 @@ The new perspectives brought into the humanities introduces modern relevance to 
 
 ### Projects in the course
 
+![Homepage of site](https://awooller00.github.io/Ally-W-CNU/images/homepage.jpg)
+
 I enjoyed reviewing the different projects that are out there. I looked into two different projects. One about folk songs from the south, their origin and recordings from generations who passed them down. Adiya Jain’s project analyzed the recordings and field notes from the travels of the Lomax’s who collected this information within the historical context necessary to understand these traditional music and particularities of the era and each region, religion, ethnicity. This review introduced me to how projects can be set up with a mixture of audio, video, photo, interactive graphics and text in a balanced way so that the viewer can get the most out of the information. 
+
 
 Another project I reviewed was done by a college group at Ohio State about the Latinos who lived in that area, their experiences with migration and how they have intertwined their culture while serving in their communities in activism, education, policy making, faith, and culture based celebrations. This project informed my final grant proposal with my group and helped us bring it to life.
 
