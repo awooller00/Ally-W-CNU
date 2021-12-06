@@ -1,6 +1,9 @@
 # Course Review
+
 _Name_: Ally Wooller
+
 _Course_: Writing for the Digital Humanities
+
 _School_: Christopher Newport University
 
 ### The definition of Digital Humanities
@@ -25,6 +28,7 @@ Although this was only a fictional proposal, our group really loved working on t
 
 The CNU project was a practical way to show that anyone can create a digital humanities project and it doesn’t have to be complicated. My project walked through my freshman year experience of being sent home halfway through second semester because of the COVID-19 pandemic. 
 
+<iframe width="960" height="505.2631578947368" data-original-width="2052" data-original-height="1080" src="https://www.thinglink.com/card/1498288097165574145" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script> 
 
 I highlighted the top memories I have from freshman year and shared the big moments leading up to right before we got sent home. The connection to the humanities was through everyone’s shared experience with the pandemic. Most people can relate to feeling lost and confused during this time, almost like we were living in an alternate reality. By sharing my experience with finding hope during a time that felt so hopeless it provides an opportunity for others to feel less alone in their experiences. 
 
